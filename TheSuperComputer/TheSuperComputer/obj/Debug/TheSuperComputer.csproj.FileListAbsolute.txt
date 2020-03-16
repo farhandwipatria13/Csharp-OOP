@@ -1,0 +1,6 @@
+D:\Farhan\TheSuperComputer\TheSuperComputer\bin\Debug\TheSuperComputer.exe.config
+D:\Farhan\TheSuperComputer\TheSuperComputer\bin\Debug\TheSuperComputer.exe
+D:\Farhan\TheSuperComputer\TheSuperComputer\bin\Debug\TheSuperComputer.pdb
+D:\Farhan\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.csprojAssemblyReference.cache
+D:\Farhan\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.exe
+D:\Farhan\TheSuperComputer\TheSuperComputer\obj\Debug\TheSuperComputer.pdb
